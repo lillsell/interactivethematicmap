@@ -1,0 +1,1 @@
+This is an interactive thematic map of the counties in North Carolina and their average SAT score. It is a cloropleth map that includes information about each county as you hover over it. The code is based off of code written for the 4818 webmapping course at Appalachian State University. 
